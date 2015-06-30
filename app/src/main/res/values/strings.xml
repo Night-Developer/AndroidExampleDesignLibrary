@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidLibDesingProject</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_hide_toolbar">HideToolbar</string>
+    <string name="title_activity_collapsing_toolbar">Collapsing Toolbars</string>
+</resources>
