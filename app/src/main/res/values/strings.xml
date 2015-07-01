@@ -5,4 +5,7 @@
     <string name="action_settings">Settings</string>
     <string name="title_activity_hide_toolbar">HideToolbar</string>
     <string name="title_activity_collapsing_toolbar">Collapsing Toolbars</string>
+
+    <string name="drawer_open_string">Abrir</string>
+    <string name="drawer_close_string">Cerrar</string>
 </resources>
